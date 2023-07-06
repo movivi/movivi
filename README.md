@@ -10,7 +10,7 @@ Also this space moonlights as a vanity project of a *self-taught* coder 🤖
 <br/>
 
 
-P.S. My personal website hosted on **Github Pages** will be integrated here, until then here's my CV 🐣
+P.S. My personal website hosted on **Github Pages** will be integrated here soon, until then here's my CV 🐣
 
 
 <!--
