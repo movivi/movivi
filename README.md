@@ -4,7 +4,7 @@ I'm **Mo**. I'm curious about how our **memories** and **emotions** are *malleab
 
 I use this space to store <ins>reproducible scripts</ins> I compiled for my past projects 🔭
 
-Also this space moonlights as a vanity project of a *self-taught* coder 🤖
+Also this space moonlights as a portfolio of a *self-taught* coder 🤖
 
 <br/>
 <br/>
