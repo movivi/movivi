@@ -1,4 +1,4 @@
-## ***Hello darkness [or whiteness~ depending on your Github theme]*** 👋👻
+## ***Hello*** 👻
 
 I'm **Mo**. I'm curious about how our **memories** and **emotions** are *malleable* 😔 ➡ 😀
 
