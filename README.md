@@ -2,9 +2,13 @@
 
 I'm **Mo**. I'm curious about how our **memories** and **emotions** are *malleable* 😔 ➡ 😀
 
-I use this space to store <ins>reproducible scripts</ins> I compiled for my past projects 🔭
+I use this space to store <ins>reproducible scripts</ins> I compiled for my projects 🔭
 
 Also this space moonlights as a portfolio of a *self-taught* coder 🤖
+
+Hope the repositories are of any help [especially to newbie coders] ⚡
+
+Can reach out to me via: [email](mohith96@connect.hku.hk)
 
 <br/>
 <br/>
