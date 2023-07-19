@@ -2,7 +2,7 @@
 
 I'm **Mo**. I'm curious about how our **memories** and **emotions** are *malleable* 😔 ➡ 😀
 
-I use this space to store reproducible scripts I compiled for my projects 🔭
+I use this space to store reproducible [*analysis* or *task*] scripts I compiled for my projects 🔭
 
 Also this space moonlights as a portfolio of a *self-taught* coder 🤖
 
