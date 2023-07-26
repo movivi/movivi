@@ -1,8 +1,8 @@
 ## ***Hello*** 👻
 
 I'm **Mo**. I'm interested in *two* lines of research:
-* how **adaptive forgetting** regulates **unwanted memories** and **emotions**  😔 🠲 😀
-* how our **decisions** are shaped and represented in our **memory systems** 😵+⏪ 🠲 🧐
+* how **adaptive forgetting** regulates **unwanted memories** and **emotions** 😔 --> 😀
+* how our **decisions** are shaped and represented in our **memory systems** 😵+⏪ --> 🧐
 
 I use this space to store reproducible scripts [*analysis*/*task*] I compiled for my projects 🔭
 
