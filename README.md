@@ -1,10 +1,10 @@
 ## ***Hello*** 👻
 
-I'm **Mo**. I'm interested in 2 lines of research:
+I'm **Mo**. I'm interested in *two* lines of research:
 * how **adaptive forgetting** regulates **unwanted memories** and **emotions**  😔 🠮 😀
 * how our **decisions** are shaped and represented in our **memory systems** 😵+⏪ 🠮 🧐
 
-I use this space to store reproducible [*analysis* or *task*] scripts I compiled for my projects 🔭
+I use this space to store reproducible scripts [*analysis*/*task*] I compiled for my projects 🔭
 
 Also this space moonlights as a portfolio of a *self-taught* coder 🤖
 
