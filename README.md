@@ -16,7 +16,7 @@ Reach out to me via [**email**](mailto:mohith96@connect.hku.hk?subject=[GitHub]%
 <br/>
 
 
-P.S. My personal website hosted on **Github Pages** will be integrated here soon, until then here's my [**CV**](https://www.dropbox.com/scl/fi/phnpbsmb39pq7wj0k22ev/MMV_CV_03192024.pdf?rlkey=xr49g0srnkxwwx0dcq0a4j9f5&dl=0) 🐣
+P.S. My personal website hosted on **Github Pages** will be integrated here soon, until then here's my [**CV**](https://www.dropbox.com/scl/fi/bfa4d0gqqdb5rc3t683gu/MMV_CV_28082024.pdf?rlkey=wcumucztjp4bfqm7r203okuek&st=d48kfoai&dl=0) 🐣
 
 
 <!--
